@@ -6,7 +6,7 @@ To run this:
 
 `git clone https://github.com/deepakgouda/faceunlock.git`
 
-`cd faceunlock`
+`cd faceunlock/Face\ Unlock/`
 
 Place an image of your face in the _Face Unlock_ folder as 'user.jpg' or 
   - Uncomment a couple a lines as directed in _face_recog.py_.

@@ -5,6 +5,7 @@ To run this:
 
 
 `git clone https://github.com/deepakgouda/faceunlock.git`
+
 `cd faceunlock`
 
 Place an image of your face in the _Face Unlock_ folder as 'user.jpg' or 

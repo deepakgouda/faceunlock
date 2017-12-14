@@ -21,3 +21,8 @@ Next time you lock your desktop, on recognising your face the lockscreen will be
 
 Precautions:
 -The face recognition is not scale invariant. Works if your face is roughly at the same distance as that of _user.jpg_ .
+-The face recognition works for frontal faces only.
+
+To do:
+-[ ] Add Scale Invariant Feature Transform.
+-[ ] Add feature to detect profile faces.

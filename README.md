@@ -24,5 +24,5 @@ Precautions:
 -The face recognition works for frontal faces only.
 
 To do:
--[ ] Add Scale Invariant Feature Transform.
--[ ] Add feature to detect profile faces.
+- [ ] Add Scale Invariant Feature Transform.
+- [ ] Add feature to detect profile faces.

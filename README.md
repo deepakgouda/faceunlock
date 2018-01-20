@@ -9,15 +9,10 @@ To run this:
 `cd faceunlock/Face\ Unlock/`
 
 Place an image of your face in the _Face Unlock_ folder as 'user.jpg' or 
-<<<<<<< HEAD
-  - $Uncomment a couple a lines as directed in _face_recog.py_.
-  - Run the program by `python face_recog.py`
-  - $Comment out the couple of lines again.
-=======
+
   - #Uncomment a couple a lines as directed in _face_recog.py_.
   - #Run the program by `python face_recog.py`
   - #Comment out the couple of lines again.
->>>>>>> 65eda6915609b1bbc2867d136299462603d0533e
 
 Enter your password in _face_unlock.py_ as mentioned.
 

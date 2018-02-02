@@ -26,5 +26,6 @@ Precautions:
   - Keep it away from your Identical Twin.
 
 To do:
+- [ ] Improve Face Recgnition.
 - [ ] Add Scale Invariant Feature Transform.
 - [ ] Add feature to detect profile faces.

@@ -55,4 +55,4 @@ python3 setup.py install --yes USE_AVX_INSTRUCTIONS --no DLIB_USE_CUDA
 ```
 -face_recognition :
 
-`pip3 install face_recognition`
+`pip install face_recognition`

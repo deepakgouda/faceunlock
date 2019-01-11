@@ -1,6 +1,13 @@
 The code requires:
 -OpenCV 3.0+ :
 
+Ubuntu 18.04 onwards : 
+```
+sudo apt-get install python3-opencv
+```
+
+Ubuntu 16.04 or lower :
+
 ```
 sudo apt-get install --assume-yes build-essential cmake git
 sudo apt-get install --assume-yes pkg-config unzip ffmpeg qtbase5-dev python-dev python3-dev python-numpy python3-numpy
